@@ -1,4 +1,6 @@
  🤖 Autonomous Obstacle-Avoiding Robot with Environment Monitoring
+📖 Read it here:
+👉 How I Built an Autonomous Obstacle-Avoiding Robot: https://ink-yew-1d6.notion.site/Kimaya-s-Robotics-Projects-Blog-1cc00d7ababf80f5a160e2857368f823
 
 This is a smart Arduino-based robot capable of autonomously navigating its environment using an ultrasonic sensor while simultaneously monitoring temperature and humidity using a DHT11 sensor. 
 Real-time environmental data is transmitted via the ESP8266 Wi-Fi module, making it ideal for integrating robotics with basic IoT.
@@ -25,6 +27,5 @@ I've written a detailed blog post covering:
 2.Project motivation & challenges
 3.Code walkthrough and dashboard integration
 
-📖 Read it here:
-👉 How I Built an Autonomous Obstacle-Avoiding Robot: https://ink-yew-1d6.notion.site/Kimaya-s-Robotics-Projects-Blog-1cc00d7ababf80f5a160e2857368f823
+
 
